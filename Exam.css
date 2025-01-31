@@ -1,0 +1,238 @@
+/* first page */
+.header{
+    background-color: green;color: white;font-family:  'Arial Narrow';padding-left: 70px;padding-right: 70px;display: flex;justify-content: space-between;height: 30px;word-spacing: 3px;
+}
+.btnmidd{
+    background-color: rgb(255, 255, 255);
+    border: 0px;
+    height: 39px;
+    color: rgb(53, 0, 71);
+}
+.btnmidd:hover{
+    background-color: rgb(203, 203, 203);
+}
+.mainimage{
+    width: 1100px;
+    height: 450px;
+}
+
+/* secondpAGE */
+.grid1{
+    display: grid;
+    grid-template-columns: repeat(6 ,1fr);
+    text-align: center;
+    padding-left: 70px;
+    padding-right: 50px;
+    
+}
+.dealmain{
+
+    height: 600px;
+}
+/* dailydeal */
+
+.grid2{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 50px;
+    width: 1000px;
+    grid-gap: 20px;
+    margin-top: 20px;
+
+
+}
+
+/* deal of the dayy */
+.grid3{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 50px;
+    width: 1300px;
+    grid-gap: 20px;
+    margin-top: 20px;
+
+
+}
+
+/* contactus */
+.conatactus{
+    display: flex;justify-content: center; border-top:solid 1px;border-bottom:solid 1px;border-color: rgb(203, 203, 203);
+}
+   .middlediv{
+    border-top: solid 1px;border-color: rgb(203, 147, 255);border-bottom: solid 1px;height: 40px;text-align: center;justify-content: space-between;
+   } 
+   .textunderimage{
+    display: flex;justify-content: center;margin-top: 30px;
+   }
+
+.table1{
+    font-size: 13px;font-weight: 3x;
+    color: rgb(126, 126, 125);
+    background-color: rgb(227, 231, 231);
+    height: 250px;;
+    
+
+}
+.na{
+    background-color: white;
+}
+#searchbar{width: 450px;height: 40px;}
+
+@media screen and (min-width: 100px) and (max-width: 400px){
+    .header{
+        color: green;
+        font-size: 0px;
+    }
+    .grid1{
+        display: grid;
+        grid-template-columns: repeat(2 ,1fr);
+        text-align: center;
+        padding-left: 50px;
+        padding-bottom: 50px;
+        
+        
+    
+    }
+    
+        .mainimage{
+            width: 400px;
+            height: 200px;
+        }
+
+        /* dailydeal */
+
+.grid2{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 50px;
+    width: 450px;
+    grid-gap: 20px;
+    margin-top: 20px;
+
+
+}
+/* deal of the dayy */
+.grid3{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 50px;
+    width: 450px;
+    height: 100px;
+    grid-gap: 10px;
+    margin-top: 20px;
+
+    
+    
+
+
+}
+.dealmain{
+
+    height: 1400px;
+}
+.conatactus{
+    display: none;
+}
+.middlediv{
+    display: none;
+}
+.textunderimage{
+    width: 400px;
+    margin-left: 30px;
+}
+.table1{
+   display: none;
+
+}
+
+#searchbar{width: 200px;height: 40px;}
+       
+ }
+ 
+
+ @media screen and (min-width: 400px) and (max-width: 600px){
+    .header{
+        color: green;
+        font-size: 0px;
+    }
+    .grid1{
+        display: flex;
+        
+       margin-left: 70px;
+        overflow: scroll;
+       
+        width: 500px;
+        
+        
+    
+    }
+    
+        .mainimage{
+            width: 550px;
+            height: 250px;
+        }
+
+        /* dailydeal */
+
+.grid2{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    text-align: center;
+    margin-left: 50px;
+    padding-left: 40px;
+    padding-right: 50px;
+    width: 450px;
+    grid-gap: 30px;
+    margin-top: 20px;
+
+
+}
+/* deal of the dayy */
+.grid3{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    text-align: center;
+    padding-left: 40px;
+    margin-left: 50px;
+    padding-right: 50px;
+    width: 450px;
+    height: 100px;
+    grid-gap: 30px;
+    margin-top: 20px;
+
+    
+    
+
+
+}
+.dealmain{
+
+    height: 1400px;
+}
+.conatactus{
+    display: none;
+}
+.middlediv{
+    display: none;
+}
+.textunderimage{
+    width: 520px;
+    margin-left: 20px;
+}
+.table1{
+   display: none;
+
+}
+
+#searchbar{width: 350px;height: 40px;}
+       
+ }
+ 

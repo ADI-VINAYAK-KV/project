@@ -1,0 +1,176 @@
+
+            <div class="row row-cols-4 row-cols-md-4 g-4" id="daily">
+                <div class="col">
+                  <div class="card">
+                    <img src="https://static.freshtohome.com/cdn-cgi/image/width=600/https://static.freshtohome.com/media/catalog/product/c/h/chettinad_chicken.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title" style="font-size: 15px;">Lababdar Gravy <br><br></h5>
+                      <p class="card-text">₹175.00₹125.00 /pack</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="card">
+                    <img src="https://static.freshtohome.com/cdn-cgi/image/width=600/https://static.freshtohome.com/media/catalog/product/t/a/tangy_chicken_ghee_roast_1_.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title " style="font-size: 15px;">Spicy Chettinad Chicken</h5><br>
+                      <p class="card-text">₹225.00₹175.00 /pack</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="card">
+                    <img src="https://static.freshtohome.com/cdn-cgi/image/width=600/https://static.freshtohome.com/media/catalog/product/c/h/chicken_pepper_salami.jpeg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title" style="font-size: 15px;">Tangy Chicken Ghee Roast</h5>
+                      <p class="card-text">₹225.00₹175.00 /pack.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="card">
+                    <img src="https://static.freshtohome.com/cdn-cgi/image/width=600/https://static.freshtohome.com/media/catalog/product/l/a/lababdar-chicken-tile-1.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title" style="font-size: 15px;"> Lababdar Gravy <br><br>
+                    </h5>
+                      <p class="card-text">₹175.00₹125.00 /pack .</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+         </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             
+         <div class="row row-cols-1 row-cols-5 g-4" style="width: 1200px;height: 300px;margin-left: 100px;margin-top: 50px;font-size: 13px;">
+            <div class="col">
+              <div class="card">
+                <img src="https://static.freshtohome.com/cdn-cgi/image/width=400/https://static.freshtohome.com/media/catalog/product/f/t/fth-dosa-classic.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title" style="font-size: 15px;">
+                    Idly / Dosa Batter (Freshly Stone-ground) - 1kg Pack </h5><br>
+                  <p class="card-text">₹68.00 /pack (Inc. Tax)</p>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card">
+                <img src="https://static.freshtohome.com/cdn-cgi/image/width=400/https://static.freshtohome.com/media/catalog/product/w/h/wheat_chapati.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title " style="font-size: 15px;">
+                    Wholewheat Chapati / Roti (10 Pieces, 425g)</h5><br>
+                  <p class="card-text">₹68.00 /pack (Inc. Tax)</p>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card">
+                <img src="https://static.freshtohome.com/cdn-cgi/image/width=400/https://static.freshtohome.com/media/catalog/product/t/o/tomato-chutney.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title" style="font-size: 15px;">Tangy Chicken Ghee Roast</h5><br><br>
+                  <p class="card-text">₹225.00₹175.00 /pack.</p>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+              <div class="card">
+                <img src="https://static.freshtohome.com/cdn-cgi/image/width=600/https://static.freshtohome.com/media/catalog/product/l/a/lababdar-chicken-tile-1.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title" style="font-size: 15px;"> 
+                    Tomato Onion Chutney (150g)
+                </h5><br>
+                  <p class="card-text">₹78.00 /pack (Inc. Tax)</p>
+                </div>
+              </div>
+            </div>
+            <div class="col">
+                <div class="card">
+                  <img src="https://static.freshtohome.com/cdn-cgi/image/width=400/https://static.freshtohome.com/media/catalog/product/g/r/green-mussels-boiled_uncleaned.jpg" class="card-img-top" alt="...">
+                  <div class="card-body">
+                    <h5 class="card-title" style="font-size: 15px;">Green Mussels / Kallumakkaya Meat  - 200g Pack</h5>
+                    <p class="card-text">₹138.00 /pack</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card">
+                  <img src="https://static.freshtohome.com/cdn-cgi/image/width=400/https://static.freshtohome.com/media/catalog/product/c/h/chicken_pickle_1.jpg" class="card-img-top" alt="...">
+                  <div class="card-body">
+                    <h5 class="card-title " style="font-size: 15px;">S
+                        Malabar Style Chicken Pickle - 150g+ pack</h5>
+                    <p class="card-text">₹149.00 /pack (Inc. Tax)</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card">
+                  <img src="https://static.freshtohome.com/cdn-cgi/image/width=400/https://static.freshtohome.com/media/catalog/product/p/e/peri-peri-drumstick.jpg" class="card-img-top" alt="...">
+                  <div class="card-body">
+                    <h5 class="card-title" style="font-size: 15px;">
+                        Peri Peri Chicken Drumsticks </h5>
+                    <p class="card-text">₹189.00 /pack (Inc. Tax).</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card">
+                  <img src="https://static.freshtohome.com/cdn-cgi/image/width=400/https://static.freshtohome.com/media/catalog/product/c/h/chicken_mince_dry_fry.jpg" class="card-img-top" alt="...">
+                  <div class="card-body">
+                    <h5 class="card-title" style="font-size: 15px;"> Chicken Mince / Kheema Dry Fry (500g)
+                        
+                  </h5>
+                    <p class="card-text">₹199.00 /pack (Inc. Tax)</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card">
+                  <img src="https://static.freshtohome.com/cdn-cgi/image/width=600/https://static.freshtohome.com/media/catalog/product/l/a/lababdar-chicken-tile-1.jpg" class="card-img-top" alt="...">
+                  <div class="card-body">
+                    <h5 class="card-title" style="font-size: 15px;"> Lababdar Gravy <br><br>
+                  </h5>
+                    <p class="card-text">₹175.00₹125.00 /pack .</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col">
+                <div class="card">
+                  <img src="https://static.freshtohome.com/cdn-cgi/image/width=400/https://static.freshtohome.com/media/catalog/product/r/o/rohu3.jpg" class="card-img-top" alt="...">
+                  <div class="card-body">
+                    <h5 class="card-title" style="font-size: 15px;">Rohu / Rui / ರೋಹು (Size/Grade 650g to 900g)
+                  </h5>
+                    <p class="card-text">₹129.00 /500g</p>
+                  </div>
+                </div>
+              </div>
+</div>
